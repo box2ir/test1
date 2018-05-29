@@ -1,2 +1,2 @@
-print("new class fit")
+print("new class fit;")
 print("else new fitclass")
